@@ -1,18 +1,11 @@
-
-//import CompContenedor from "./clase4/CompContenedor";
-//import CompFunc from "./clase4/CompFunc";
-
-// import EjemploPromesa from "./clase6/EjemploPromesa";
-// import Map from "./Map";
-import CompFetch from "./Clase7/CompFetch";
-// import Map2 from "./Map2";
-// import Promesas from "./clase6/Promesas";
+//import Botones from "./clase8/Botones";
+//import HOC from "./clase8/HOC";
+import RenderProps from "./clase8/RenderProps";
 
 function App() {  
-
   return (
     <>
-    <CompFetch />
+    <RenderProps />
     </>
   )
 }
